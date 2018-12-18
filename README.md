@@ -5,7 +5,7 @@ Members: Alan Zev Babushkin and Maggie Shao
 
 To code: --> Project2.ipynb <-- https://github.com/ms0643/Machine-Learning-Final-Project/blob/master/Project2.ipynb
 
-To report: 
+To report: https://github.com/ms0643/Machine-Learning-Final-Project/blob/master/Project%20Report.ipynb
 
 Link to powerpoint: https://docs.google.com/presentation/d/1mXdLojyVDWaMyAMLsEscfAS83BUrLB1WeNHsOM3zRS4/edit?usp=sharing
 
